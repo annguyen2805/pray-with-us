@@ -1,0 +1,3 @@
+// This file is only a marker that we've added AI-based daily mission generation
+// Actual implementation lives in services/geminiService.ts
+

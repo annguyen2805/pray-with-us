@@ -1,0 +1,21 @@
+{
+  "name": "Pray with God",
+  "short_name": "PrayGod",
+  "description": "Bình an và Hạnh phúc trong Ánh sáng Lời Chúa. Ứng dụng đồng hành đức tin cho giới trẻ.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fdfbf7",
+  "theme_color": "#b45309",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/ios-filled/512/b45309/shield-with-cross.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
